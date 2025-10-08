@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "deque": "^0.0.4",
+    "numpy": "^0.0.1"
+  }
+}
